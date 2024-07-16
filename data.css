@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 2px solid black;
+    text-align: center;
+    padding: 8px;
+}
+th {
+    background-color: grey;
+}
+button{
+    padding:10px 20px;
+    background-color:beige;
+    color: blanchedalmond;
+    cursor:pointer
+}
